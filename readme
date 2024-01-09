@@ -1,0 +1,22 @@
+# Web Scraping com Python
+
+Este é um simples script em Python para realizar web scraping em um site utilizando as bibliotecas BeautifulSoup e requests. O script extrai os buttons e o path dos uls.
+
+## Pré-requisitos
+
+Instale as seguintes bibliotecas antes de executar o script:
+
+```bash
+pip install beautifulsoup4 requests 
+
+```
+## Como usar
+1 - Clone o repositório para o seu ambiente local:
+```git clone https://github.com/sergioglesio/web_scraping.git
+cd web_scraping
+```
+
+2 - Execute o script no terminal:
+```
+python3 web_scraping.py
+```
